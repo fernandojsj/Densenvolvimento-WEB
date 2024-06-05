@@ -1,7 +1,7 @@
 
 # Udemy | Desenvolvimento WEB
 
-Aula de HTML/CSS [Udemy]https://www.udemy.com/course/web-completo/)
+Aula de HTML/CSS [Udemy](https://www.udemy.com/course/web-completo/)
 
 ## Material de Apoio📚
 - [HTML](https://www.notion.so/HTML-5-fec55b2625594d0883e2f13186e59dc5?pvs=4)
