@@ -1,7 +1,5 @@
 
-# Udemy | Desenvolvimento WEBV
-
-Diversos exercícios feito no Visual G aprendidos no curso de Lógica de Programação
+# Udemy | Desenvolvimento WEB
 
 Aula de HTML/CSS [Udemy]https://www.udemy.com/course/web-completo/)
 
